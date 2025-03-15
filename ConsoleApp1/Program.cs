@@ -25,7 +25,7 @@ numberY = Convert.ToInt32(Console.ReadLine());
 
 numberResult = numberX * numberY;
 
-Console.WriteLine($"a multiplicacao de {numberX} e {numberY} = { numberResult}");
+Console.WriteLine($"a multiplicacao de {numberX} e {numberY} = { numberResult}");*/
 
 
 using System;
@@ -43,7 +43,10 @@ numberW = Convert.ToInt32(Console.ReadLine());
 
 numberResult = numberZ - numberW;
 
-Console.WriteLine($"a subtracao de {numberZ} e {numberW} = {numberResult}");*/
+Console.WriteLine($"a subtracao de {numberZ} e {numberW} = {numberResult}");
+
+
+//1.Maior de Dois Números else ou if
 
 
 
@@ -51,14 +54,6 @@ Console.WriteLine($"a subtracao de {numberZ} e {numberW} = {numberResult}");*/
 
 
 
-//1.Maior de Dois Números
 
-int numberZ;
-int numberW;
-int numberResult;
-
-
-console.WriteLine("digite o primeiro numero");
-if
 
 
